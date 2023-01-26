@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austinhutchen
 - 👀 I’m most interested in software development, and eventually machine learning.
-- 🌱 I'm most proficient in C++, C#, REACT.JS, Javascript , REACT Native, dart, html, and css, and I'm currently learning DATAVIS with python and SQL!
+- 🌱 I'm most proficient in C++, C#, REACT.JS, Javascript , REACT Native, dart, html, and css, and I'm currently learning python and SQL!
 - 💞️ I’m looking to collaborate on all of my future projects! I freqeuntly build apps and programs with various types of data structures.
 - 📫 Reach me at hutchenaustin@gmail.com for more!
 
