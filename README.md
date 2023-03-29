@@ -3,8 +3,9 @@
 <hr>
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
 <ul>
+    <li> <i> Disclaimer: This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
-  <li> <i>This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
+
   <li> 🌱 I'm most proficient in C++, C#, REACT, html/css, dart, and more! <i>(check my page for more info)</i></li>
   <li>CURRENTLY LEARNING : ASP.NET, SQL, Advanced JS </li>
 <!---
