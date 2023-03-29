@@ -4,7 +4,7 @@
 <ul>
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
   <li> 🌱 I'm most proficient in C++, C#, REACT, html/css, dart, and more! </li>
-- CURRENTLY LEARNING : ASP.NET, SQL, Advanced JS
+  <li>CURRENTLY LEARNING : ASP.NET, SQL, Advanced JS </li>
   </ul>
 <!---
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
