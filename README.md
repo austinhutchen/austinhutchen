@@ -3,7 +3,7 @@
 <hr>
 <ul>
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
-  <li> 🌱 I'm most proficient in C++, C#, REACT, html/css, dart, and more! </li>
+  <li> 🌱 I'm most proficient in C++, C#, REACT, html/css, dart, and more! (check my page for more info)</li>
   <li>CURRENTLY LEARNING : ASP.NET, SQL, Advanced JS </li>
   </ul>
 <!---
