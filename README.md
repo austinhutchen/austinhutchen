@@ -4,6 +4,7 @@
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
 <ul>
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
+  <li> This page is mostly for code I work on in my free time for practice and for fun, work repositories are privated :) 
   <li> 🌱 I'm most proficient in C++, C#, REACT, html/css, dart, and more! <i>(check my page for more info)</i></li>
   <li>CURRENTLY LEARNING : ASP.NET, SQL, Advanced JS </li>
 <!---
@@ -12,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <li> 💞️ I’m looking to collaborate on all of my future projects! I frequently build apps, websites, and large-scale backend-heavy programs, aiming for efficiency and portability across all systems. </li>
+  
 <li> 📫 Reach me at hutchenaustin@gmail.com for more! </li>
 </ul>
