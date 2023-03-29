@@ -7,7 +7,7 @@
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
 
   <li> 🌱 I'm most proficient in C++, C#, REACT, html/css, dart, and more! <i>(check my page for more info)</i></li>
-  <li> 👨🏽‍🏫 CURRENTLY LEARNING : ASP.NET, practicing data structures/algorithms, bitwise encryption strategies, SQL, Advanced JS </li>
+  <li> 👨🏽‍🏫 CURRENTLY LEARNING : ASP.NET, SQL, many more JS frameworks, Java, Tensorflow, arduino , leetcode data structures/algorithms, bitwise encryption strategies,  </li>
 <!---
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
