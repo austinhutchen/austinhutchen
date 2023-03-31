@@ -1,5 +1,6 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=austinhutchen&theme=react&line_height=40&hide=css"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=austinhutchen&theme=react&line_height=60&hide=css"/> </a>
+ 
 <hr>
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
 <ul>
