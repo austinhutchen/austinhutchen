@@ -1,5 +1,5 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
-<img height="300em" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=austinhutchen&theme=react&line_height=40&hide=css"/> </a>
 <hr>
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
 <ul>
