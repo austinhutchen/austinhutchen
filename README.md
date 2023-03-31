@@ -1,6 +1,6 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=austinhutchen&theme=react&line_height=60&hide=css"/> 
-[Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=transparent)
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinhutchen)](https://github.com/anuraghazra/github-readme-stats)
 </a>
  
 <hr>
