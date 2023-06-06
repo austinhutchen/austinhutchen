@@ -10,7 +10,7 @@
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
 
   <li> 🌱 I'm most proficient in C#, React/JS, css, Dart, Rust, python, C++,  and more! <i>(check my page for more info)</i></li>
-  <li> 👨🏽‍🏫 CURRENTLY LEARNING : Angular, Vue, Node, ASP.NET, SQL,  Java, Tensorflow, arduino , optimization algorithms, bitwise reverse-engineering, and much more! </li>
+  <li> 👨🏽‍🏫 CURRENTLY PRACTICING : Rust, Angular.JS, Vue, C++, compression optimization algorithms, and more! </li>
 <!---
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
