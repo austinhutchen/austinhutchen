@@ -9,7 +9,7 @@
     <li> <i> Disclaimer: This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
 
-  <li> 🌱 I'm most proficient in C++, C#, React/JS, html/css, dart, Rust, python, and more! <i>(check my page for more info)</i></li>
+  <li> 🌱 I'm most proficient in C#, React/JS, css, Dart, Rust, python, C++,  and more! <i>(check my page for more info)</i></li>
   <li> 👨🏽‍🏫 CURRENTLY LEARNING : Angular, Vue, Node, ASP.NET, SQL,  Java, Tensorflow, arduino , optimization algorithms, bitwise reverse-engineering, and much more! </li>
 <!---
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
