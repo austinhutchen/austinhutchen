@@ -1,7 +1,7 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
     <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
-<hr>
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
+  <hr>
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
     <ul></ul>
     <li> <i> Disclaimer: This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
