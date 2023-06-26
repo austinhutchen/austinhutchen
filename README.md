@@ -1,4 +1,4 @@
-<h1><b> Hello there, and welcome to my page! </b></h1>
+<h1><b> Welcome to my page! </b></h1>
 <a>
     <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
 
