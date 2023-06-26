@@ -17,6 +17,6 @@ austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
  
-<li> 📫 Reach me at hutchenaustin@gmail.com for more! </li>
+<li> 📫 Reach me at LINKEDIN for more! </li>
 </ul>
  <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
