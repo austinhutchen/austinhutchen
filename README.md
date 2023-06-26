@@ -6,7 +6,7 @@
      <California Computer Science student, and prospective software + systems engineer with a love for all things tech!>
 <ul>
     <li> <i> Disclaimer: This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
-  <li>👀 I’m most interested in software development, and eventually machine learning. </li>
+  <li>👀 I’m most interested in software development, embedded systems, and eventually machine learning. </li>
 
   <li> 🌱 I'm most proficient in C#, React/JS, css, Dart, Rust, python, C++,  and more! <i>(check my page for more info)</i>
 
