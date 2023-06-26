@@ -1,7 +1,8 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
 <a>
+    <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&layout=compact&langs_count=12&theme=react&hide=cmake,c,Objective-C++"/> 
-  <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
 </a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
 <hr>
