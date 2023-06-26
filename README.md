@@ -1,6 +1,7 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
      <hr>
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=8&theme=react&hide=cmake,c,Objective-C++"/> 
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
 
 <ul>
@@ -8,7 +9,7 @@
   <li>👀 I’m most interested in software development, and eventually machine learning. </li>
 
   <li> 🌱 I'm most proficient in C#, React/JS, css, Dart, Rust, python, C++,  and more! <i>(check my page for more info)</i>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=8&theme=react&hide=cmake,c,Objective-C++"/> 
+
   </li>
   <li> 👨🏽‍🏫 CURRENTLY PRACTICING : Rust, Angular.JS, Vue, C++, compression optimization algorithms, and more! </li>
 <!---
