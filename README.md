@@ -2,9 +2,9 @@
 <a>
     <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&layout=compact&langs_count=12&theme=react&hide=cmake,c,Objective-C++"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&layout=compact&langs_count=8&theme=react&hide=cmake,c,Objective-C++"/> 
 </a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
+
 <hr>
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
 <ul>
@@ -17,7 +17,7 @@
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
 <li> 💞️ I’m looking to collaborate on all of my future projects! I frequently build apps, websites, and large-scale backend-heavy programs, aiming for efficiency and portability across all systems. </li>
 <li> 📫 Reach me at hutchenaustin@gmail.com for more! </li>
 </ul>
