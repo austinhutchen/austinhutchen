@@ -1,7 +1,7 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
 <a>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&height=60&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&line_width=40&hide=cmake,c,Objective-C++"/> 
 </a>
 
