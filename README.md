@@ -17,6 +17,6 @@ austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
  
-<li> 📫 Reach me at <img height ="40" width="40" href= "https://www.linkedin.com/in/austin-hutchen-15440a1b2/"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /> for more! </li>
+<li> 📫 Reach me at <a href= "https://www.linkedin.com/in/austin-hutchen-15440a1b2/">  <img height ="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /> </a> for more! </li>
 </ul>
  <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
