@@ -1,6 +1,6 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/toplangs/?username=austinhutchen&hide_progress=true&langs_count=14&theme=react&line_height=40&layout=pie"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/toplangs/?username=austinhutchen&hide_progress=true&langs_count=7&theme=react&line_height=40&layout=pie"/> 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&height=60&show_icons=true&theme=gruvbox"/> 
 </a>
