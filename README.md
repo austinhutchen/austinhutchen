@@ -1,5 +1,5 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
- <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=14&theme=react&line_height=40&hide=css"/> 
+ <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=14&theme=react&line_height=40&hide=cmake/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&height=60&show_icons=true"/> 
 </a>
  
