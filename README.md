@@ -3,7 +3,7 @@
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
          
-     <California Computer Science student, and prospective software + systems engineer with a love for all things tech!>
+     California Computer Science student, and prospective software + systems engineer with a love for all things tech!
 <ul>
     <li> <i> Disclaimer: This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
   <li>👀 I’m most interested in software development, embedded systems, and eventually machine learning. </li>
