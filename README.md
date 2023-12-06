@@ -6,7 +6,7 @@
      I'm a California Computer Science student and a software, network, & embedded systems engineer with a love for tech!
 <ul>
     <li> <i> Disclaimer: This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
-  <li>👀 I’m most interested in Software Development, Embedded Systems Dev, and eventually pure Machine Learning </li>
+  <li>👀 I’m most interested in Software Development, CyberSecurity, Embedded Systems Dev, and eventually pure Machine Learning </li>
 
   <li> 🌱 I'm most proficient in C#, React/JS, css, Dart, Rust, python, C++,  and more! <i>(check my page for more info)</i>
 
