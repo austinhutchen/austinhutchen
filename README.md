@@ -9,7 +9,7 @@
 
   <li>👀 I’m most interested in Software Development, CyberSecurity, Embedded Systems Dev, and eventually pure Machine Learning </li>
 
-  <li> 🌱 I'm most proficient in the languages i've used most displayed below, but i'm always learning new frameworks, and revisiting the fundamentals !</i> <br/>
+  <li> 🌱 I'm most proficient in the languages i've used the most here: </i> <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&hide=cmake,css,html,Objective-C++"/> 
 
   </li>
