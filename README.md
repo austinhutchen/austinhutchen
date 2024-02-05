@@ -11,7 +11,7 @@
   <li> 🌱 I'm most proficient in C#, React/JS, css, Dart, Rust, python, C++,  and more! <i>(check my page for more info)</i>
 
   </li>
-  <li> 👨🏽‍🏫 CURRENTLY LEARNING : Rust, Angular.JS, Vue, REGEX matching, BASH scripting, and frontend WASM </li>
+  <li> 👨🏽‍🏫 CURRENTLY MASTERING : C, Angular.TS, PHP, AWS, Bash, and Firebase</li>
 <!---
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
