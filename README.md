@@ -1,14 +1,14 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&hide=cmake,css,html,Objective-C++"/> 
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
          
      I'm a California Computer Science student and a software, network, & embedded systems engineer with a love for tech!
 <ul>
-    <li> <i> Disclaimer: This page is used for code I work on in my free time for practice or for fun, work-related repositories are privated for security reasons </i> :) 
+
   <li>👀 I’m most interested in Software Development, CyberSecurity, Embedded Systems Dev, and eventually pure Machine Learning </li>
 
-  <li> 🌱 I'm most proficient in C#, React/JS, css, Dart, Rust, python, C++,  and more! <i>(check my page for more info)</i>
+  <li> 🌱 I'm most proficient in my top languages displayed above, but i'm always learning!</i>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
 
   </li>
   <li> 👨🏽‍🏫 CURRENTLY MASTERING : C, Angular.TS, PHP, AWS, Bash, and Firebase</li>
