@@ -5,8 +5,9 @@
   <b><h2> Nice to meet you. I'm Austin. </h2> </b>
          
      I'm a California Computer Science student and a software, network, & embedded systems engineer with a love for tech!
+     
 <ul>
-<img height ="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&hide=cmake,css,html,Objective-C++"/> 
   <li>👀 I’m most interested in Software Development, CyberSecurity, Embedded Systems Dev, and eventually pure Machine Learning </li>
 
 
