@@ -17,5 +17,5 @@ austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
  
-<li> 📫 Reach me at <a href= "https://www.linkedin.com/in/austin-hutchen-15440a1b2/">   </a> for more! </li>
+<li> 📫 Reach me at <a href= "https://www.linkedin.com/in/austin-hutchen-15440a1b2" />   </a> for more! </li>
 </ul>
