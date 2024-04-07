@@ -16,6 +16,8 @@
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bdjhss-265&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img align="center" src ="https://spotify-github-profile.vercel.app/api/view.svg?uid=bdjhss-265&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=bdjhss-265&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]"/>
+
+
 <li> 📫 Reach me at <a href= "https://www.linkedin.com/in/austin-hutchen-15440a1b2" /> linkedin  </a> for more! </li>
 </ul>
