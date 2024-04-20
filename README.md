@@ -2,7 +2,7 @@
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=false"/> 
  <img align = "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
 
-  <b><h2> Nice to meet you. I'm Austin. </h2> </b>
+  <b><h2> Nice to meet you. I'm <a href="https://austinhutchen.github.io/austinscode/"> Austin. </a></h2> </b>
          
      I'm a California-based Computer Science student and a software, network, & embedded systems engineer with a love for tech!
        
