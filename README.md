@@ -11,7 +11,7 @@
   <li>👀 I’m most interested in Software Development, CyberSecurity, Embedded Systems Dev, and eventually pure Machine Learning </li>
 
 
-  <li> 👨🏽‍🏫 CURRENTLY MASTERING : C, Angular.TS, PHP, AWS, Bash, and Firebase</li>
+  <li> 👨🏽‍🏫 CURRENTLY MASTERING: C, Typescript, AWS, TCP/UDP programming, Bash, and Firebase</li>
 <!---
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
