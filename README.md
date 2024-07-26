@@ -8,7 +8,7 @@
        
 <ul>
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&hide=cmake,css,html,Objective-C++"/> 
-  <li>👀 I’m most interested in Software Development, CyberSecurity, Embedded Systems , linear algebra and computer graphics, and quantum computing! </li>
+  <li>👀 I’m most interested in Software Development, CyberSecurity, Embedded Systems , Linear Algebra and Computer Graphics, and Quantum Computing! </li>
 
 
   <li> 👨🏽‍🏫 CURRENTLY MASTERING: C#, Typescript, AWS, TCP/UDP programming, Bash, and Firebase</li>
