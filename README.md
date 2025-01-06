@@ -1,6 +1,6 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=true"/> 
- <img align ="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&theme=highcontrast&hide_border=false"/>
+ <img align ="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=austinhutchen&hide_border=false"/>
 
   <b><h2> Nice to meet you. I'm <a href="https://austinhutchen.github.io/austinscode/"> Austin. </a></h2> </b>
          
