@@ -7,10 +7,9 @@
        
 <ul>
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&hide=cmake,css,html,Objective-C++"/> 
-  <li>👀 I’m pursuing further experience in Software Development, CyberSecurity, Embedded Systems , Linear Algebra and Computer Graphics, and Quantum Computing! </li>
 
 
-  <li> 👨🏽‍🏫 CURRENTLY MASTERING: C#, Typescript, AWS, TCP/UDP programming, Bash, and Firebase</li>
+
 <!---
 austinhutchen/austinhutchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
