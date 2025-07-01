@@ -1,7 +1,7 @@
 <h1><b> Hello there, and welcome to my page! </b></h1>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox&include_all_commits=true"/> 
 
-  <b><h2> Nice to meet you. I'm <a href="https://austinhutchen.github.io/austinscode/"> Austin. </a></h2> </b>
+  <b><h2> I'm <a href="https://austinhutchen.github.io/austinscode/"> Austin. </a></h2> </b>
          
      I'm a California-based Computer Science student and a software, network, & embedded systems engineer with a love for tech!
        
