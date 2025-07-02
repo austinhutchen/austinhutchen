@@ -3,7 +3,7 @@
 
   <b><h2> I'm <a href="https://austinhutchen.github.io/austinscode/"> Austin. </a></h2> </b>
          
-     I'm a California-based Computer Science student and an embedded software engineer!
+     I'm a California-based Computer Science student, and embedded software engineer.
        
 <ul>
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&hide=cmake,css,html,Objective-C++"/> 
