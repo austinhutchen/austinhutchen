@@ -1,5 +1,6 @@
 <h1><b> Hello, and welcome to my page! </b></h1>
-<h2> I'm <a href="https://austinhutchen.github.io/austinscode/" rel="noopener noreferrer">Austin</a></h2>         
+
+<h2> I'm <a href="https://austinhutchen.github.io/austinscode/" rel="noopener noreferrer">Austin.</a></h2>         
        
 <ul>
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinhutchen&hide_progress=true&langs_count=12&theme=react&hide=cmake,css,html,Objective-C++"/> 
