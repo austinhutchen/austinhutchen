@@ -1,4 +1,4 @@
-<h1><b> Hello there, and welcome to my page! </b></h1>
+<h1><b> Hello, and welcome to my page! </b></h1>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=austinhutchen&show_icons=true&theme=gruvbox /> 
          
        
